@@ -84,7 +84,7 @@ npm install wallet-address-validator
 
 * Vertcoin/VTC, `'vertcoin'` or `'VTC'`
 
-* Votecoin/VTC, `'votecoin'` or `'VOT'`
+* Votecoin/VOT, `'votecoin'` or `'VOT'`
 
 * Zcash/ZEC, `'zcash'` or `'ZEC'`
 
